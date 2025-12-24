@@ -7,40 +7,28 @@
 </p>
 
 </div>
-
 ---
-
 ### 👤 About
 Student from **Bangladesh** focused on learning **computer fundamentals** and building practical projects step by step.  
-No shortcuts. No fake expertise.
-
 ---
-
 ### 🧠 Focus Areas
 - Programming fundamentals
 - Problem-solving through code
 - Git & Linux workflows
 - Learning by building, not consuming
-
 ---
-
 ### 🛠 Current Stack
 - **Language:** Python (learning)
 - **Tools:** Git, Linux
-- **Frameworks:** None — intentionally
-
+- **Frameworks:** None 
 ---
-
 ### 📁 Repositories
 You’ll find:
 - Learning projects  
 - Experiments & practice  
 - Scripts and small tools  
-
 Only things worth documenting stay public.
-
 ---
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=UnnabhBiswas&show_icons=true&hide_border=true&theme=transparent" height="160"/>
