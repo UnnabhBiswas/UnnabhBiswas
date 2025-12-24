@@ -42,7 +42,7 @@ Only things worth showing stay public.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UnnabhBiswas&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/UnnabhBiswas&show_icons=true&hide_border=true&theme=transparent" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/>
 
 </div>
